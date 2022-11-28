@@ -1,4 +1,4 @@
-package org.acme;
+package idrabenia;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

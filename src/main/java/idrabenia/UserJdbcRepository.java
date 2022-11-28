@@ -1,4 +1,4 @@
-package org.acme;
+package idrabenia;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

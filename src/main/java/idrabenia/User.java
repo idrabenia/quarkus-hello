@@ -1,4 +1,4 @@
-package org.acme;
+package idrabenia;
 
 import lombok.Value;
 

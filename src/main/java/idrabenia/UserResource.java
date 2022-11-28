@@ -1,4 +1,4 @@
-package org.acme;
+package idrabenia;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
